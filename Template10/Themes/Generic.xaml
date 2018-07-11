@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="ms-appx:///Template10/Themes/Resizer.xaml" />
+        <ResourceDictionary Source="ms-appx:///Template10/Themes/PageHeader.xaml" />
+        <ResourceDictionary Source="ms-appx:///Template10/Themes/ModalDialog.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+
+</ResourceDictionary>
